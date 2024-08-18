@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BIPRAYAN
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...python for AI
+- 👀 I’m interested in ...AI and DATA SCIENCE
+- 🌱 I’m currently learning ...DATA SCIENCE
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email biprayanchoudhuri58@gmail.com
 - 😄 Pronouns: ...
